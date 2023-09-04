@@ -392,7 +392,7 @@ body {
 		width: 100vw;
 		height: 100vw;
 		position: absolute;
-		top: 105vw;
+		top: 50%;
 		left: 0;
 		overflow: hidden;
 		border-radius: 5px;
