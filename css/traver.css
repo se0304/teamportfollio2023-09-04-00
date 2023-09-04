@@ -255,7 +255,7 @@ body {
 	}
 
 	#slidewrap {
-		width: 200%;
+		width: 160vw;
 		height: 100%;
 		position: absolute;
 		overflow: hidden;
@@ -268,8 +268,8 @@ body {
 		animation: fadeInUp 3s;
 		cursor: pointer;
 		z-index: 2;
-		top: 110vw;
-		left: -45vw;
+		top: 112vw;
+		left: -28vw;
 
 	}
 
@@ -316,8 +316,8 @@ body {
 
 	.slidebtton_l {
 		position: absolute;
-		top: 47vw;
-		left: 47vw;
+		top: 35vw;
+		left: 30vw;
 	}
 
 	.slidebtton_l span:hover {
@@ -335,8 +335,8 @@ body {
 
 	.slidebtton_r {
 		position: absolute;
-		top: 47vw;
-		left: 134vw;
+		top: 35vw;
+		left: 116vw;
 
 	}
 
@@ -392,7 +392,7 @@ body {
 		width: 100%;
 		height: 80vw;
 		position: absolute;
-		top: 85vw;
+		top: 84vw;
 		left: 0;
 		overflow: hidden;
 		border-radius: 5px;
